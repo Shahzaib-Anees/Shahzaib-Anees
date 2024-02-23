@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -38,8 +34,3 @@
 <img src="https://raw.githubusercontent.com/Shahzaib-Anees/Shahzaib-Anees/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<!---
-Shahzaib-Anees/Shahzaib-Anees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
