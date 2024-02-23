@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋  What'sup!<br> My name is  Shahzaib <br>And I'm a Frontend Web Application .</h2>
+<h2 align="left">Hi 👋 !I am Shahzaib 
+<br>And I'm a Frontend Web Application .</h2>
 
 ###
 
