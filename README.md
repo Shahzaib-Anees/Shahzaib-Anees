@@ -1,5 +1,5 @@
-<h2 align="center">Hi👋! I am Shahzaib <br>
-  And I'm a Frontend Web Application Developer  and Web UI Designer</h2>
+<h1 align="center">Hi👋! I am Shahzaib <h1><br>
+ <h2 align="center"> And I'm a Frontend Web Application Developer  and Web UI Designer</h2>
 
 
 # 💻 Tech Stack:
